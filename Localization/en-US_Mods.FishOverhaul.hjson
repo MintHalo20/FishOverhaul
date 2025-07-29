@@ -1,0 +1,17 @@
+Mods: {
+	FishOverhaul: {
+		Items: {
+			ShimmerBobber: {
+				DisplayName: Shimmer-Proof Bobber
+				Tooltip: Allows fishing in Shimmer.
+			}
+		}
+	}
+}
+
+Items: {
+	ShimmerBobber: {
+		DisplayName: Shimmer Bobber
+		Tooltip: ""
+	}
+}
