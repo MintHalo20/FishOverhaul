@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace FishOverhaul.Content.Items;
+namespace FishOverhaul.Content.Items.FishingItems;
 
 public class ShimmerBobber : ModItem
 {
